@@ -22,3 +22,7 @@ Completed the cadding of the steering wheel and made a logo for it!
 
 # Day 5
 Made rod system for the steering wheel.
+I was a lil busy, but somehow managed to do a little work. So yeah, i decided to use wood for the base of the steering wheel which will bear all the electronics, reason - pla is not that hard/heavy, wood is. 
+![steering com](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6aa589e2254cbba159f0250b9fdb8c02d9370aa1_screenshot_2025-05-05_at_12.44.11___am.png) 
+![steering com](https://hc-cdn.hel1.your-objectstorage.com/s/v3/cd747a69a4780011bf3ca64dfdc2f4de52a02466_screenshot_2025-05-05_at_12.44.27___am.png) 
+![steering com](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2e5a32f9089ec7e8b5843c9da62151469a4dd96f_screenshot_2025-05-05_at_12.45.42___am.png)

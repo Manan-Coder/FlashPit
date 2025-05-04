@@ -19,3 +19,6 @@ Completed the cadding of the steering wheel and made a logo for it!
 ![steering v1](https://hc-cdn.hel1.your-objectstorage.com/s/v3/4586c4cbe92fb2565290c0f55cd18f436b40894e_screenshot_2025-05-03_at_11.29.14___pm__1_.png)
 ![steering v1](https://hc-cdn.hel1.your-objectstorage.com/s/v3/bdcaddd59bea0f635881cc112b65a657ff887564_screenshot_2025-05-03_at_11.26.46___pm.png)
 ![steering v1](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a2f27c057b4a908347a7bd489e1af4ea03c4e6e6_screenshot_2025-05-03_at_11.13.19___pm__1_.png)
+
+# Day 5
+Made rod system for the steering wheel.

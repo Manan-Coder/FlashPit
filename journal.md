@@ -33,4 +33,4 @@ Also decided to use wooden boards with clamps as the base rather than the 3d pri
 I also figured out the way to make the accelerator and the break to work without using the potentiometers, for which i'll have to sell my soul to pay, the thing is LITERALLY 10K PER PIECE??
 So yeah i decided to use analog hall sensors with hinges and springs for it, hall sensors simply measure magnetic field, so i'll stick a magnet to the pedal base and a sensor to the base' top, so this way it will have precise observations + its really cheap(20 inr per piece) + i already have magnets for it.
 
-!(pedals)[https://hc-cdn.hel1.your-objectstorage.com/s/v3/54fdb20722f017046dcfc2d85e59512dd548b5b0_screenshot_2025-05-05_at_8.23.36___pm.png]
+![pedals](https://hc-cdn.hel1.your-objectstorage.com/s/v3/54fdb20722f017046dcfc2d85e59512dd548b5b0_screenshot_2025-05-05_at_8.23.36___pm.png)
